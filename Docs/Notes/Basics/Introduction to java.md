@@ -32,7 +32,7 @@ creating an object that is why we used static before the main function so that i
 - Interpretation is done by jvm java virtual machine which contains a just in time compiler **(Interpreter)**
 - Jvm reads byte code **Line by line**, It takes one line then convert it in machine-understandable code then while the machine is running that code it interprets more lines and saves them for the execution
 
-![javaSourceCode.jpg](../../assets/javaSourceCode.jpg)
+![javaSourceCode.jpg](../../assets/JavaSourceCode.jpg)
 
 ### Execution
 - javac is a java compiler after which we write the name of the file and its extension
